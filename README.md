@@ -20,6 +20,6 @@ relevant_coursework:
     "Electromagnetics (EECS 220)"
     "Digital Logic Design (EECS 140)"
   ]
-hobbies: ['Film','Cars', 'Formula 1', 'esports']
+hobbies: ['Film', 'Cars', 'Formula 1', 'esports']
 ```
 
