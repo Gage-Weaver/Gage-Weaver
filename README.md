@@ -9,6 +9,9 @@ skills:
   [
     "Python"
     "Object-Oriented Programming"
+    "Flask"
+    "Javascript"
+    "HTML/CSS"
     "Circuit Analysis"
     "VHDL"
   ]
