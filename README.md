@@ -8,12 +8,9 @@ linkedin: https://www.linkedin.com/in/gage-weaver/
 skills:
   [
     "Python"
-    "Object-Oriented Programming"
     "Flask"
-    "Javascript"
     "HTML/CSS"
-    "Circuit Analysis"
-    "VHDL"
+    "Javascript"
   ]
 relevant_coursework:
   [
