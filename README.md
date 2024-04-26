@@ -4,6 +4,7 @@ location: Lawrence, Kansas
 contact: Gage_Weaver@ku.edu
 current_role: Math Tutor & Student
 major: Computer Engineering
+Portfolio: gage-weaver.com
 linkedin: https://www.linkedin.com/in/gage-weaver/
 skills:
   [
