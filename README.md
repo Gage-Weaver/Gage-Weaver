@@ -6,13 +6,20 @@ current_role: "Circuits 1 (EECS 202) Supplemental Instructor"
 major: "Computer Engineering"
 portfolio: "gage-weaver.com"
 linkedin: "https://www.linkedin.com/in/gage-weaver/"
-skills:
+technologies: #Ordered by Familiarity
   [
     "Python",
-    "HTML/CSS",
     "Javascript",
+    "SQL", 
+    "HTML/CSS",
     "Flask",
     "C"
+  ]
+work_experience:
+  [
+  "Information Technology / Data Analytics Intern (Adams Brown)",
+  "Supplemental Instructor for Circuits 1 (EECS 202) (University of Kansas)",
+  "K-12 Math Tutor (The Princeton Review / Tutor.com)"
   ]
 relevant_coursework:
   [
@@ -25,6 +32,12 @@ relevant_coursework:
     "Electronic Circuits 1 (EECS 312)",
     "Electromagnetics (EECS 220)",
     "Digital Logic Design (EECS 140)"
+  ]
+recognitions:
+  [
+  "Spring 2023 Honor Roll",
+  "Fall 2023 Honor Roll",
+  "Most Creative Adobe Express Add-On HackKU 2024"
   ]
 hobbies: ['Film', 'Cars', 'Formula 1', 'esports']
 ```
