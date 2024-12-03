@@ -13,7 +13,7 @@ technologies: #Ordered by Familiarity
     "SQL", 
     "HTML/CSS",
     "Flask",
-    "C"
+    "C/C++"
   ]
 work_experience:
   [
