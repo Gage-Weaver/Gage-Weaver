@@ -3,7 +3,7 @@
 **Computer Engineering @ University of Kansas**  
 📍 Lawrence, KS  
 🌐 [gage-weaver.com](https://gage-weaver.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/gage-weaver/) • [GitHub](https://github.com/Gage-Weaver)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gage-weaver/)    
 📬 [Gage_Weaver@ku.edu](mailto:Gage_Weaver@ku.edu)  
 
 ---
