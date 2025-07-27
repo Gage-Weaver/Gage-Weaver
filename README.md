@@ -13,7 +13,7 @@
 **Software Engineering Intern @ Wells Fargo**  
 *Summer 2025*  
 - Built internal tools using Java, Spring Boot, React, and MongoDB  
-- Worked across the full agile cycle—from writing stories to code reviews  
+- Worked across the full agile cycle, from writing stories to code reviews  
 
 **IT & Data Analytics Intern @ Adams Brown**  
 *Summer 2024*  
@@ -29,15 +29,15 @@
 
 ## 🛠 Projects
 
-**PeTAI** – *Hack KU 2025*  
+**PeTAI**  *Hack KU 2025*  
 AI workout assistant using computer vision for form feedback  
 → *Winner of the Pella Corp. track*
 
-**CheckYoSelf** – *Midwest Block-a-Thon*  
+**CheckYoSelf**  *Midwest Block-a-Thon*  
 Marketplace with 3d models for verification
 → *2nd place overall*
 
-**PocketDJ** – *Hack KU 2024*  
+**PocketDJ**  *Hack KU 2024*  
 Web app that recommends Spotify songs based on emotion using facial sentiment detection  
 → *Winner of the Adobe Express track*
 
