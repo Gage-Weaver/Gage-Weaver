@@ -43,7 +43,7 @@ Web app that recommends Spotify songs based on emotion using facial sentiment de
 
 **NBA MVP Predictor**  
 ML model using Ridge and Random Forest regression to predict MVP outcomes from player stats  
-Correctly predicted 2024 NBA MVP
+→ Correctly predicted 2024 NBA MVP
 
 → See more on [gage-weaver.com](https://gage-weaver.com)
 
