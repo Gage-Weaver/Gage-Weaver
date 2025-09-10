@@ -34,7 +34,7 @@ AI workout assistant using computer vision for form feedback
 → *Winner of the Pella Corp. track*
 
 **CheckYoSelf**  *Midwest Block-a-Thon*  
-Marketplace with 3d models for verification
+Marketplace with 3d models for verification  
 → *2nd place overall*
 
 **PocketDJ**  *Hack KU 2024*  
