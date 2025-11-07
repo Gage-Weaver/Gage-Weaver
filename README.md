@@ -22,6 +22,7 @@ Lawrence, KS
 - First intern nominated for the firm’s top employee award  
 
 **Circuits 1 Supplemental Instructor, KU**  
+*2024-2025 Academic Year*  
 - Led support sessions for students in EECS 202  
 - Assisted students in understanding complex concepts and preparing for exams  
 
